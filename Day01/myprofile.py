@@ -1,0 +1,13 @@
+name = input("Enter your name: ")
+age = input("Enter your age: ")
+mobile_number = input("Enter your mobile number: ")
+college_name = input("Enter your college/school name: ")
+roll_number = input("Enter your college/school roll number: ")
+
+print()
+print("===MY PROFILE===")
+print("Hello", name + "!")
+print("You're", age, "years old" + "!")
+print("You're mobile number", mobile_number + ".")
+print("You're studying in", college_name + ".")
+print("You're roll number is", roll_number + ".")

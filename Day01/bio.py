@@ -1,0 +1,13 @@
+name = input("Enter your name: ")
+age = input("Enter your age: ")
+city = input("Enter city name where you live in: ")
+favorite_subject = input("Enter your favorite subject: ")
+favorite_game = input("Enter yout favorite game: ")
+
+print()
+print("===bio===")
+print("You're name", name + ".")
+print("You're", age,"years old" + ".")
+print("You're currently in living in", city + ".")
+print("You're favorite subject is", favorite_subject + ".")
+print("You're favorite game is", favorite_game + ".")

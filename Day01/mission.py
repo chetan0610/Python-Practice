@@ -1,0 +1,12 @@
+name = input("Enter your name: ")
+age = input("Enter your age: ")
+favorite_food = input("Enter your favorite food: ")
+favorite_programming_language = input("Enter your favorite programming language: ")
+dream_phone = input("Enter your dream phone: ")
+
+print()
+print("Hello", name + "!")
+print("your", age, "years old" + "!")
+print("your favorite food is", favorite_food + ".")
+print("Your favorite programming laguage is", favorite_programming_language + ".")
+print("Your dream phone is", dream_phone + ".")
