@@ -1,0 +1,41 @@
+# ===========================
+# Python Cache Files
+# ===========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ===========================
+# Virtual Environments
+# ===========================
+.venv/
+venv/
+env/
+ENV/
+
+# ===========================
+# IDE Settings
+# ===========================
+.vscode/
+.idea/
+
+# ===========================
+# Operating System Files
+# ===========================
+.DS_Store
+Thumbs.db
+
+# ===========================
+# Logs
+# ===========================
+*.log
+
+# ===========================
+# Python Environment Files
+# ===========================
+.python-version
+
+# ===========================
+# Jupyter Notebook Checkpoints
+# ===========================
+.ipynb_checkpoints/
