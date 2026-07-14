@@ -1,0 +1,3 @@
+# Day 09 - Functions
+# No external Python packages are required.
+# This project uses only Python's built-in features.
